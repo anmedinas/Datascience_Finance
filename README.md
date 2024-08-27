@@ -10,7 +10,7 @@ Este curso se centra en la recopilación, organización y gestión de datos para
 
 Los sesiones son:
 
-1. **Sesión 1.** Introducción a la Gestión de Inversiones y Fundamentos de Python
+1. **Sesión 1.** Fundamentos de Python I
     * Introducción al curso y objetivos.
     * Conceptos básicos de inversión: activos, riesgo, retorno.
     * Introducción a Python para finanzas:
@@ -18,7 +18,16 @@ Los sesiones son:
         * Fundamentos de Python (variables, estructuras de control, funciones).
         * Introducción a las bibliotecas financieras: `NumPy` y `Pandas`.
 
-2. **Sesión 2.** Análisis de Datos Financieros con Python 
+2. **Sesión 2.** Fundamentos de Python II
+    * Operaciones, funciones, tipos de datos
+    * Variables y operadores
+    * Strings, listas, diccionarios
+    * if-elif-else
+    * loops
+    * Creacion de funciones y funciones con modulos
+    * Introducción a `Numpy` y `Scipy`
+
+3. **Sesión 3.** Introducción a la Gesión de Inversiones con Python 
     * Introducción a la manipulación de datos financieros con Pandas.
     * Importación y limpieza de datos financieros.
     * Análisis exploratorio de datos (EDA):
@@ -27,25 +36,23 @@ Los sesiones son:
         * Introducción a `Matplotlib` y `Seaborn` para la visualización de datos.
     * Análisis de Regresión 
 
-3. **Sesión 3.** Modelos de Series de Tiempo Avanzado.
+4. **Sesión 4.** Modelos de Series de Tiempo Avanzado.
     * Introducción al Value at Risk (`VaR`) y Expected Shortfall.
     * Modelos `ARCH`,`GARCH`, `EGARCH`, `APARCH` para la volatilidad.
     * Simulación Estadística
     * Evaluación del riesgo de portafolios con Python
-
-4. **Sesión 4.** Aprendizaje No Supervisado
-    * Algoritmos `KMean`
-    * Algoritmos `DBSCAN`
-    * Algoritmos `C-MEAN`
-    * Algoritmos `GMM`
     
-5. **Sesión 5.** Aprendizaje Supervisado
-   * Algoritmos KNN
-   * Algoritmos Naive Bayes
-   * Algoritmos Decision Tree
-   * Algoritmos Regresion Logistica
-   * Algoritmos Support Vector Machine
-   * Algoritmos de Ensamblado
+5. **Sesión 5.** Datamining en Finanzas 
+   * Algoritmos `KMean` (Aprendizaje No Supervisado)
+   * Algoritmos `DBSCAN` (Aprendizaje No Supervisado)
+   * Algoritmos `C-MEAN` (Aprendizaje No Supervisado)
+   * Algoritmos `GMM`  (Aprendizaje No Supervisado)
+   * Algoritmos KNN  (Aprendizaje Supervisado)
+   * Algoritmos Naive Bayes (Aprendizaje Supervisado)
+   * Algoritmos Decision Tree (Aprendizaje Supervisado)
+   * Algoritmos Regresion Logistica (Aprendizaje Supervisado)
+   * Algoritmos Support Vector Machine (Aprendizaje Supervisado)
+   * Algoritmos de Ensamblado (Aprendizaje Supervisado)
 
 6. **Sesión 6.** Introducción al análisis financiero avanzado
     * Modelo de Markowitz
