@@ -12,7 +12,6 @@ Los sesiones son:
 
 1. **Sesión 1.** Fundamentos de Python I
     * Introducción al curso y objetivos.
-    * Conceptos básicos de inversión: activos, riesgo, retorno.
     * Introducción a Python para finanzas:
         * Instalación de entornos de desarrollo (Jupyter Notebook, Anaconda).
         * Fundamentos de Python (variables, estructuras de control, funciones).
